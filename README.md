@@ -72,7 +72,9 @@ Atualmente, estou explorando o universo dos testes de software, aprendendo sobre
 - 🧩 **Resolução de problemas complexos**  
 
 
-📈 **Meta Atual**: Me especializar ainda mais em testes de software para ser uma especialista no assunto!  
+## 🎗️ Trabalho Voluntário
+
+Atualmente, contribuo como **QA Tester** voluntária na [IpêCode](https://www.linkedin.com/company/ipecode/), onde estou ganhando experiência prática em **testes de software**. Este trabalho tem sido uma oportunidade incrível para colocar em prática o que aprendi e evoluir como profissional na área de qualidade.
 
 
 ## 🌍 Idiomas  
