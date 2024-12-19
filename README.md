@@ -47,7 +47,7 @@ Atualmente, estou explorando o universo dos testes de software, aprendendo sobre
 - 📈 **Análise de Dados**  
 - 🛠️ **Análise de Causa Raiz (RCA)**  
 - 🔄 **Melhoria Contínua com Lean Six Sigma**  
-- 🔧 **Teste de Software (Manual e Automatizado)**  
+- 🔧 **Teste de Software (Manual)**  
 - 🖥️ **Ferramentas: Git, GitHub, Taiga, Visual Studio Code**  
 - 📜 **Metodologias Ágeis (Scrum e Kanban)**  
 - 🗂️ **Compliance: GDPR e LGPD**  
