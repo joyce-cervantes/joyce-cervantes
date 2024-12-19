@@ -1,4 +1,6 @@
-# Olá, eu sou a Joyce Cervantes! 👋                                                                               ![Visitas no perfil](https://shields.io/badge/Visitas-0-?style=for-the-badge&color=e27bb1)
+![Contador de visitas](https://komarev.com/ghpvc/?username=joyce-cervantes&color=e27bb1)
+
+# Olá, eu sou a Joyce Cervantes! 👋
 
 
 Sou apaixonada por tecnologia e qualidade de software, com mais de 5 anos de experiência em análise de qualidade e melhoria contínua.
