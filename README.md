@@ -59,17 +59,16 @@ Atualmente, estou explorando o universo dos testes de software, aprendendo sobre
 
 ## 🌟 Soft Skills  
 
-- 🤝 **Colaboração entre equipes**  
-- 🗣️ **Comunicação eficaz**  
-- ⏱️ **Gestão de tempo**  
-- 📊 **Orientação por dados**  
-- 🎯 **Foco em resultados**  
-- 🔍 **Atenção aos detalhes**  
-- 🧠 **Pensamento crítico**  
-- 🚀 **Perfil proativo**  
-- ✍️ **Criação de relatórios detalhados**  
-- 💡 **Adaptabilidade**  
-- 🧩 **Resolução de problemas complexos**  
+- 🤝 Colaboração entre equipes
+- 🗣️ Comunicação eficaz  
+- ⏱️ Gestão de tempo  
+- 📊 Perfil data-driven  
+- 🎯 Foco em resultados  
+- 🔍 Atenção aos detalhes  
+- 🧠 Pensamento crítico  
+- 🚀 Perfil proativo  
+- 💡 Adaptabilidade  
+- 🧩 Resolução de problemas 
 
 
 ## 🎗️ Trabalho Voluntário
