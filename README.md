@@ -86,11 +86,3 @@ Atualmente, contribuo como **QA Tester** voluntária na [IpêCode](https://www.l
 
 - [Versão em Português 🇧🇷](https://seulink.com/curriculo-pt)
 - [Versão em Inglês 🇺🇸](https://seulink.com/curriculo-en)
-
-
-
-
-
-<p align="center">
-  <img src="https://github.com/joyce-cervantes/imagens-privadas/blob/main/highlights-card.png?raw=true" alt="Highlights" width="40%">
-</p>
