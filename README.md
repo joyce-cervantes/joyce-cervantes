@@ -44,17 +44,16 @@ Atualmente, estou explorando o universo dos testes de software, aprendendo sobre
 
 ## 💻 Hard Skills  
 
-- 📈 **Análise de Dados**  
-- 🛠️ **Análise de Causa Raiz (RCA)**  
-- 🔄 **Melhoria Contínua com Lean Six Sigma**  
-- 🔧 **Teste de Software (Manual)**  
-- 🖥️ **Ferramentas: Git, GitHub, Taiga, Visual Studio Code**  
-- 📜 **Metodologias Ágeis (Scrum e Kanban)**  
-- 🗂️ **Compliance: GDPR e LGPD**  
-- 📐 **Metodologias de Teste (Caixa Branca e Caixa Preta)**  
-- 🛡️ **Cibersegurança**  
-- 🔧 **Tecnologias: JavaScript, CI/CD**  
-- ✅ **Gestão de Resultados com OKRs**  
+📈 Análise de Dados
+🔧 Teste de Software (Manual)
+🖥️ Ferramentas: Git, GitHub, Taiga, Visual Studio Code
+📜 Metodologias Ágeis (Scrum e Kanban)
+🗂️ Compliance: GDPR e LGPD
+📐 Metodologias de Teste (Caixa Branca e Caixa Preta)
+🛡️ Cibersegurança
+🔧 Tecnologias: JavaScript, TypeScript, Node.js, CI/CD
+🛠️ Frameworks e Ferramentas de Teste: Jest, Gherkin
+✅ Gestão de Resultados com OKRs
 
 
 ## 🌟 Soft Skills  
