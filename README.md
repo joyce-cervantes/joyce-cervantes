@@ -42,7 +42,7 @@ Atualmente, estou explorando o universo dos testes de software, aprimorando minh
 
 ## 💻 Hard Skills  
 
-- 📈 Gestão de KPIs  
+
 - 🔧 Testes de Software Funcionais (Manuais)  
 - 🖥️ Ferramentas: GitHub, Taiga, Visual Studio Code, Notion, Slack  
 - 📜 Metodologias Ágeis: Scrum e Kanban  
@@ -59,6 +59,7 @@ Atualmente, estou explorando o universo dos testes de software, aprimorando minh
 - 🧑‍💻 Metodologia OKR  
 - 🧠 Sugestões de Melhorias voltadas para a experiência do usuário  
 - ✅ Gestão de Resultados com OKRs
+- 📈 Gestão de KPIs  
 
 
 ## 🌟 Soft Skills  
