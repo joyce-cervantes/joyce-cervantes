@@ -48,7 +48,7 @@ Sou Analista de Testes/QA, com foco em testes manuais funcionais, testes explora
 - 📱 Testes em Plataforma Web e Mobile  
 - 🔍 Testes Exploratórios, de Usabilidade e de Acessibilidade  
 - ⚙️ Ferramentas de Teste: LightHouse, Google DevTools
-- 🗃️ SQL para consulta de dados em banco de dados funcional  
+- 🗃️ SQL para consulta de dados em banco de dados funcional e MongoDB para consulta em banco de dados não-funcional
 - 🧑‍💻 Metodologia OKR  
 - 🧠 Sugestões de Melhorias voltadas para a experiência do usuário  
 - ✅ Gestão de Resultados com OKRs
