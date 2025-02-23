@@ -30,14 +30,7 @@
 
 
 Sou apaixonada por tecnologia e qualidade de software. Formada em Gestão em Tecnologia da Informação, possuo Inglês nível avançado (C1).  
-Atualmente, estou explorando o universo dos testes de software, aprimorando minhas habilidades em testes manuais funcionais.  
-
-
-**Além dos testes de software**:  
-
-- 🕹️ Sou gamer desde criança.  
-- 🌈 Faço parte da comunidade LGBTQIAP+ (Bi) e sou neurodivergente (TDAH).  
-- 🎧 Amo ouvir os podcasts Modus Operandi e O Turno da Noite.    
+Sou Analista de Testes/QA, com foco em testes manuais funcionais, testes exploratórios, testes de acessbilidade e testes de usabilidade. Estou desenvolvendo meus conhecimentos em automação de testes com Cypress e testes de API com Postman.
 
 
 ## 💻 Hard Skills  
@@ -50,11 +43,11 @@ Atualmente, estou explorando o universo dos testes de software, aprimorando minh
 - 📐 Metodologias de Teste (Caixa Branca e Caixa Preta)  
 - 🐞 Identificação e Documentação de Bugs, Defeitos e Inconsistências  
 - 🔧 Tecnologias: JavaScript, TypeScript, Node.js, React  
-- 🛠️ Frameworks e Ferramentas de Teste: Gherkin, Cypress (Básico), Postman (Básico)  
+- 🛠️ Frameworks e Ferramentas de Teste: Gherkin, Cypress (Básico), Postman (Básico), Cucumber, Figma
 - ✅ Criação de Cenários de Testes e Casos de Testes  
 - 📱 Testes em Plataforma Web e Mobile  
 - 🔍 Testes Exploratórios, de Usabilidade e de Acessibilidade  
-- ⚙️ Ferramentas de Teste: LightHouse, DevTools  
+- ⚙️ Ferramentas de Teste: LightHouse, Google DevTools
 - 🗃️ SQL para consulta de dados em banco de dados funcional  
 - 🧑‍💻 Metodologia OKR  
 - 🧠 Sugestões de Melhorias voltadas para a experiência do usuário  
@@ -79,4 +72,11 @@ Atualmente, estou explorando o universo dos testes de software, aprimorando minh
 ## 🌍 Idiomas  
 
 ![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge)  
-![Inglês](https://img.shields.io/badge/Inglês-Avançado-blue?style=for-the-badge)  
+![Inglês](https://img.shields.io/badge/Inglês-Avançado-blue?style=for-the-badge)
+
+
+**Além dos testes de software**:  
+
+- 🕹️ Sou gamer desde criança.  
+- 🌈 Faço parte da comunidade LGBTQIAP+ (Bi) e sou neurodivergente (TDAH).  
+- 🎧 Amo ouvir os podcasts Modus Operandi e O Turno da Noite.   
