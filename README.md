@@ -20,39 +20,37 @@
   <a href="https://github.com/joyce-cervantes" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.com/users/joyce_cervantes" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+
 </p>  
 
 
-# Olá, eu sou a Joy! ✨  
+# Olá, eu sou a Joyce! ✨  
 
 
 Sou apaixonada por tecnologia e qualidade de software. Formada em Gestão em Tecnologia da Informação, possuo Inglês nível avançado (C1).  
-Sou Analista de Testes/QA, com foco em testes manuais funcionais, testes exploratórios, testes de acessbilidade e testes de usabilidade. Estou desenvolvendo meus conhecimentos em automação de testes com Cypress e testes de API com Postman.
+Sou Analista de Testes/QA, com foco em testes manuais funcionais, testes exploratórios, testes de acessbilidade, testes de usabilidade, testes de responsividade e testes de carga. Estou desenvolvendo meus conhecimentos em mais áreas dos testes de software, como automação e testes de API.
 
 
 ## 💻 Hard Skills  
 
 
 - 🔧 Testes de Software Funcionais (Manuais)  
-- 🖥️ Ferramentas: GitHub, Taiga, Visual Studio Code, Notion, Slack  
+- 🖥️ Ferramentas: GitHub, Jira, Zephyr, Taiga, Visual Studio Code, Notion, Slack, Microsoft Teams  
 - 📜 Metodologias Ágeis: Scrum e Kanban  
 - 🗂️ Proteção de Dados: GDPR e LGPD  
-- 📐 Metodologias de Teste (Caixa Branca e Caixa Preta)  
+- 📐 Metodologias de Teste: Caixa Preta
 - 🐞 Identificação e Documentação de Bugs, Defeitos e Inconsistências  
 - 🔧 Tecnologias: JavaScript, TypeScript, Node.js, React  
 - 🛠️ Frameworks e Ferramentas de Teste: Gherkin, Cypress (Básico), Postman (Básico), Cucumber, Figma
 - ✅ Criação de Cenários de Testes e Casos de Testes  
-- 📱 Testes em Plataforma Web e Mobile  
-- 🔍 Testes Exploratórios, de Usabilidade e de Acessibilidade  
-- ⚙️ Ferramentas de Teste: LightHouse, Google DevTools
-- 🗃️ SQL para consulta de dados em banco de dados funcional e MongoDB para consulta em banco de dados não-funcional
-- 🧑‍💻 Metodologia OKR  
+- 📱 Testes em Plataforma Web e simulação de ambiente Mobile (via DevTools Google Chrome)
+- 🔍 Testes Exploratórios, de Usabilidade, de Acessibilidade, Responsividade, Carga, Funcionais
+- ⚙️ Ferramentas de Teste: LightHouse, Google DevTools, ABADI, ABADI Web
+- 🧑‍💻 Metodologia OKR
 - 🧠 Sugestões de Melhorias voltadas para a experiência do usuário  
-- ✅ Gestão de Resultados com OKRs
-- 📈 Gestão de KPIs  
+- 📈 Gestão de KPIs
+- 📋 Elaboração de Especificações Funcionais voltadas a projetos internos de sustentação e melhorias
+- 🧾 Revisão e Criação das Regras do Negócio
 
 
 ## 🌟 Soft Skills  
