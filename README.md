@@ -28,7 +28,7 @@
 
 
 Sou apaixonada por tecnologia e qualidade de software. Formada em Gestão em Tecnologia da Informação, possuo Inglês nível avançado (C1).  
-Sou Analista de Testes/QA, com foco em testes manuais funcionais, testes exploratórios, testes de acessbilidade, testes de usabilidade, testes de responsividade e testes de carga. Estou desenvolvendo meus conhecimentos em mais áreas dos testes de software, como automação e testes de API.
+Sou Analista de Testes/QA, com foco em testes manuais funcionais, testes exploratórios, testes de acessbilidade, testes de usabilidade, testes de responsividade e testes de regressão. Estou desenvolvendo meus conhecimentos em mais áreas dos testes de software, como automação e testes de API.
 
 
 ## 💻 Hard Skills  
@@ -44,7 +44,7 @@ Sou Analista de Testes/QA, com foco em testes manuais funcionais, testes explora
 - 🛠️ Frameworks e Ferramentas de Teste: Gherkin, Cypress (Básico), Postman (Básico), Cucumber, Figma
 - ✅ Criação de Cenários de Testes e Casos de Testes  
 - 📱 Testes em Plataforma Web e simulação de ambiente Mobile (via DevTools Google Chrome)
-- 🔍 Testes Exploratórios, de Usabilidade, de Acessibilidade, Responsividade, Carga, Funcionais
+- 🔍 Testes Exploratórios, de Usabilidade, de Acessibilidade, Responsividade, Regressão, Funcionais
 - ⚙️ Ferramentas de Teste: LightHouse, Google DevTools, ABADI, ABADI Web
 - 🧑‍💻 Metodologia OKR
 - 🧠 Sugestões de Melhorias voltadas para a experiência do usuário  
