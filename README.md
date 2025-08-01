@@ -46,4 +46,4 @@ Sou Analista de Testes/QA, com foco em testes manuais funcionais, exploratórios
 Aqui você encontra alguns dos conteúdos que desenvolvi e compartilho com carinho, baseados em estudos e práticas que aplico na área de Testes de Software 💡  
 
 🔗 [Prompt de Simulação Interativa ISTQB Foundation Level](https://liberating-veil-b07.notion.site/simulado-interativo-istqb-foundation-level)  
-Material interativo que simula perguntas e respostas do exame **ISTQB CTFL**, ajudando na preparação com foco em aprendizado prático e contextualizado.
+Prompt interativo que eu desenvolvi que simula perguntas e respostas do exame **ISTQB CTFL**, ajudando na preparação com foco em aprendizado prático e contextualizado.
