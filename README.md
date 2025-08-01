@@ -24,8 +24,8 @@
 # Olá, eu sou a Joyce! ✨  
 
 
-Sou apaixonada por tecnologia e qualidade de software. Formada em Gestão em Tecnologia da Informação, possuo Inglês nível avançado (C1).  
-Sou Analista de Testes/QA, com foco em testes manuais funcionais, testes exploratórios, testes de acessbilidade, testes de usabilidade, testes de responsividade e testes de regressão. Estou em constante desenvolvimento sobre meus conhecimentos da área de testes de software.
+Sou apaixonada por tecnologia e qualidade de software. Sou formada em Gestão em Tecnologia da Informação e tenho Inglês nível avançado (C1).  
+Sou Analista de Testes/QA, com foco em testes manuais funcionais, exploratórios, de acessbilidade, usabilidade, responsividade, smote tests, testes de regressão e re-testes. Estou em constante desenvolvimento sobre meus conhecimentos da área de testes de software.
 
 
 ## 🚀 Sobre mim
