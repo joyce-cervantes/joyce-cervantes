@@ -45,10 +45,3 @@ Sou Analista de Testes/QA, com foco em testes manuais funcionais, testes explora
 
 ![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge)  
 ![Inglês](https://img.shields.io/badge/Inglês-Avançado-blue?style=for-the-badge)
-
-
-**Além dos testes de software**:  
-
-- 🕹️ Sou gamer desde criança.  
-- 🌈 Faço parte da comunidade LGBTQIAP+ (Bi) e sou neurodivergente (TDAH).  
-- 🎧 Amo ouvir os podcasts Modus Operandi e O Turno da Noite.   
