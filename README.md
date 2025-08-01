@@ -47,9 +47,3 @@ Aqui você encontra alguns dos conteúdos que desenvolvi e compartilho com carin
 
 🔗 [Prompt de Simulação Interativa ISTQB Foundation Level](https://liberating-veil-b07.notion.site/simulado-interativo-istqb-foundation-level)  
 Material interativo que simula perguntas e respostas do exame **ISTQB CTFL**, ajudando na preparação com foco em aprendizado prático e contextualizado.
-
-
-## 🌍 Idiomas  
-
-![Português](https://img.shields.io/badge/Português-Nativo-green?style=for-the-badge)  
-![Inglês](https://img.shields.io/badge/Inglês-Avançado-blue?style=for-the-badge)
