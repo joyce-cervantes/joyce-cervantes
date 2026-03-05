@@ -25,7 +25,7 @@
 
 
 Sou apaixonada por tecnologia e qualidade de software. Sou formada em Gestão em Tecnologia da Informação e tenho Inglês nível avançado (C1).  
-Sou Analista de Testes/QA, com foco em testes manuais funcionais, exploratórios, de acessbilidade, usabilidade, responsividade, smote tests, testes de regressão e re-testes. Estou em constante desenvolvimento sobre meus conhecimentos da área de testes de software.
+Sou Analista de Qualidade/ Quality Assurance, com expertise em testes manuais funcionais, exploratórios, de acessbilidade, usabilidade, responsividade, smoke tests, testes de regressão e re-testes. Estou em constante desenvolvimento sobre meus conhecimentos da área de testes de software.
 
 
 ## 🚀 Sobre mim
